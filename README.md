@@ -22,7 +22,7 @@ original_video_download 和 retweet_video_download: 是否下载原创微博和�
 
 write_mode: 指定如何保存微博数据。默认情况数据将保存为 CSV 文件。
 
-since_date: 从这个日期开始抓取微博。只抓取此日期之后的微博。
+since_date: 只抓取此日期之后的微博。
 
 delete_after_days: 在 Misskey 上发表的微博在指定的天数后将被删除。
 filter: 为0时代码会检查微博是否为转发的，如果是，它将从原始微博中提取信息并为这些信息添加前缀 'retweet_'。同时，它会添加一个字段 'is_original' 来表示这条微博是否为原创。
