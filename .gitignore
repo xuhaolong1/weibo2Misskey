@@ -1,1 +1,13 @@
-node_modules/
+# Configuration files
+config.json
+
+# State files
+posted_ids.txt
+
+# Generated data
+weibo/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
