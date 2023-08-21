@@ -1,0 +1,27 @@
+{
+  "user_list": [
+    {
+      "id": weibo-uid,
+      "comment": "user-name"
+    },
+    {
+      "id": weibo-uid,
+      "comment": "user-name"
+    }
+
+  ],
+  "include_repost": true,
+  "standalone_repost": true,
+  "include_post_url": false,
+  "misskey_instance_url": "Your Misskeyurl",
+  "misskey_token": "Your access token",
+  "max_attachment_count": 16,
+  "original_pic_download": 1,
+  "retweet_pic_download": 0,
+  "original_video_download": 1,
+  "retweet_video_download": 0,
+  "write_mode": ["csv"],
+  "since_date": "2023-08-21",
+  "delete_after_days": 3,
+  "filter": 0
+}
