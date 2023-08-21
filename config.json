@@ -13,7 +13,7 @@
   "include_repost": true,
   "standalone_repost": true,
   "include_post_url": false,
-  "misskey_instance_url": "Your Misskeyurl",
+  "misskey_instance_url": "Your Misskey url",
   "misskey_token": "Your access token",
   "max_attachment_count": 16,
   "original_pic_download": 1,
