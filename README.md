@@ -20,7 +20,7 @@ original_pic_download 和 retweet_pic_download: 是否下载原创微博和转�
 
 original_video_download 和 retweet_video_download: 是否下载原创微博和转发微博中的视频。1 表示下载，0 表示不下载。
 
-write_mode: 指定如何保存微博数据。在此情况下，数据将保存为 CSV 文件。
+write_mode: 指定如何保存微博数据。默认情况数据将保存为 CSV 文件。
 
 since_date: 从这个日期开始抓取微博。只抓取此日期之后的微博。
 
